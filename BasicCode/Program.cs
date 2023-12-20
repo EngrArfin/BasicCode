@@ -10,7 +10,7 @@ namespace BasicCode
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Arin");
+            Console.WriteLine("Hello Arfin Mia to go to the ");
         }
     }
 }
